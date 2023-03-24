@@ -15,3 +15,8 @@
 .movie>img{
     width:100%;
 }
+@media(max-width:820px){
+   .movie{
+    width: 45%;
+   } 
+}
